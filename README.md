@@ -103,7 +103,3 @@ Simply enter the number corresponding to your choice and follow the prompts.
 
 
 ---
-
-## 📄 License
-
-This project is open source and available for learning purposes.
